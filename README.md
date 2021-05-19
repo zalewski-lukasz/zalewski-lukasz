@@ -1,10 +1,8 @@
-### Dzień dobry, witam na mojej stronie 👋
-
 ![](images/pc_and_coffee.jpg)
 
-- 🎓 Student MiNI PW
-- ⚡ Pełen zapału
-- 💻 Wymienione w CV projekty można znaleźć przypięte poniżej 👇
+- 🎓 Studying Computer Science at MiNI PW 
+- ⚡ Full of energy
+- 💻 Some projects are down below 👇
 
 <!--
 **zalewski-lukasz/zalewski-lukasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
