@@ -1,7 +1,6 @@
 ![](images/pc_and_coffee.jpg)
 
 - 🎓 Studying Computer Science at MiNI PW 
-- ⚡ Full of energy
 - 💻 Some projects are down below 👇
 
 <!--
