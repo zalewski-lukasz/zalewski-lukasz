@@ -1,6 +1,6 @@
 ![](images/pc_and_coffee.jpg)
 
-- 🎓 Studying Computer Science at MiNI PW 
+- 🎓 Working as .NET developer
 
 <!--
 **zalewski-lukasz/zalewski-lukasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
